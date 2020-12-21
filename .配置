@@ -40,3 +40,5 @@ CONFIG_PACKAGE_luci-theme-argon=y
 CONFIG_PACKAGE_luci-theme-bootstrap=y
 CONFIG_PACKAGE_terminfo=y
 CONFIG_PACKAGE_openssh-sftp-server=y
+CONFIG_PACKAGE_luci-app-adbyby-plus=y
+CONFIG_PACKAGE_luci-app-S-S R-plus=y
